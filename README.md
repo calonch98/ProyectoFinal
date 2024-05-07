@@ -62,10 +62,9 @@ Este análisis se centra en examinar la interacción de la audiencia con los twe
 4. **Gráfico de pastel de Distribución de Interacciones:**
    - Este gráfico de pastel ilustra la distribución proporcional de diferentes tipos de interacciones (retweets, favoritos y respuestas). Cada segmento del pastel representa un tipo de interacción, y el tamaño del segmento corresponde a la proporción de ese tipo de interacción en relación con el total de interacciones.
 
+![Graficos PD4](https://github.com/calonch98/ProyectoFinal/assets/158233439/cfdef1b0-ed51-4370-8028-47c637e639d1)
 
 Estas visualizaciones ofrecen una perspectiva completa de cómo se relacionan las interacciones (retweets, favoritos y respuestas) tanto a nivel individual de tweet como en un contexto general a lo largo del tiempo.
-
-![Graficos PD4](https://github.com/calonch98/ProyectoFinal/assets/158233439/cfdef1b0-ed51-4370-8028-47c637e639d1)
 
 # **Conclusiones:**
 - Existe una oportunidad para diversificar la estrategia de contenido y generar más interacción directa con la audiencia a través de tweets originales y relevantes.
