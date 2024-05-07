@@ -40,7 +40,7 @@ Este análisis se centra en examinar la interacción de la audiencia con los twe
 - A pesar de la frecuencia de los retweets, la interacción directa de los usuarios en términos de likes y retweets es baja.
 - Se observa una tendencia positiva hacia la inclusión de contenido multimedia en los tweets, lo que sugiere que dicho contenido podría mejorar el engagement.
 
-### Resumen de la base de datos
+### Resumen de los datos
 
 1. **Frecuencia de Tweets**:
    - Durante el período que proporcionaste, el TecNM publicó múltiples tweets, con una frecuencia variable. Por ejemplo, hubo días con varios tweets y otros con ninguno.
