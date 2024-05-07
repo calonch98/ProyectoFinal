@@ -100,6 +100,12 @@ Estas visualizaciones ofrecen una perspectiva completa de cómo se relacionan la
 - Implementar estrategias para fomentar la participación de la audiencia, como encuestas, preguntas abiertas o desafíos.
 - Continuar monitoreando el rendimiento de los tweets y ajustar la estrategia según sea necesario para optimizar el engagement.
 
-
 ## Resumen Final
 Los datos analizados revelan patrones de interacción en Twitter, destacando una correlación positiva entre retweets y favoritos. Se observó un crecimiento gradual en la interacción a lo largo del tiempo, con retweets y favoritos como las formas de interacción más comunes. La participación activa, medida por respuestas, varió ampliamente entre los tweets. En general, los usuarios parecen preferir la interacción pasiva mediante retweets y favoritos. Este análisis proporciona información valiosa sobre cómo la audiencia interactúa con el contenido en Twitter y sugiere estrategias para aumentar la participación y el alcance de los tweets.
+
+#
+#
+#
+**Se adjunta el archivo .csv en caso de que un interesado desee analizar los datos**
+
+[Data1e.csv](https://github.com/calonch98/ProyectoFinal/files/15228914/Data1e.csv)
