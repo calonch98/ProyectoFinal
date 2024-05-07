@@ -1,4 +1,23 @@
+![Logo del tec](https://github.com/calonch98/ProyectoFinal/assets/158233439/5fa4eefa-8fc5-48b2-adec-21f5c16c0aa6)
 
+
+## Instituto Tecnologico de Tijuana
+## Unidad Tomas Aquino
+
+
+<table border =3 bordercolor="Navy" align="center" width="100%">
+    <tr>
+        <td><font face="Arial" Size="3" Color="DarkBlue"><b>Carrera: </b>Ingenieria en Sistemas Computacionales</font></td>
+        <td><font face="Arial" Size="3" Color="DarkBlue"><b>Materia: </b>Patrones de Diseño de Software</font></td>
+    </tr>
+    <tr>
+        <td><font face="Arial" Size="3" Color="DarkBlue"><b>Horario: </b>16 - 17</font></td>
+    </tr>
+    <tr>
+        <td><font face="Arial" Size="3" Color="DarkBlue"><b>Alumno: </b>Carlos Alonso Sandoval Estrada</font></td>
+        <td><font face="Arial" Size="3" Color="DarkBlue"><b>Docente: </b>Rene Solis</font></td>
+    </tr>
+</table>
 
 ![cooltext457672390704521](https://github.com/calonch98/ProyectoFinal/assets/158233439/7db91143-b195-48f4-8ab9-2acbc7e6cc02)
 
