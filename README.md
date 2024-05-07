@@ -64,6 +64,12 @@ Este análisis se centra en examinar la interacción de la audiencia con los twe
 
 ![Graficos PD4](https://github.com/calonch98/ProyectoFinal/assets/158233439/cfdef1b0-ed51-4370-8028-47c637e639d1)
 
+5. **Recuento de Retweets por Tweet:**
+
+   - El gráfico muestra el recuento de retweets para cada tweet en la lista proporcionada. Se observa que hay una variación en el número de retweets recibidos por cada tweet, lo que sugiere que algunos tweets tienen más impacto y resonancia en comparación con otros. Esto puede deberse a una variedad de factores, como el contenido del tweet, la hora del día en que se publicó, la relevancia del tema, entre otros. En general, los retweets son una medida de la viralidad y el alcance de un tweet en la plataforma de Twitter.
+
+![Graficos PD5](https://github.com/calonch98/ProyectoFinal/assets/158233439/39d5fa7c-e8aa-47e4-a5b3-1b58a63ed32e)
+
 Estas visualizaciones ofrecen una perspectiva completa de cómo se relacionan las interacciones (retweets, favoritos y respuestas) tanto a nivel individual de tweet como en un contexto general a lo largo del tiempo.
 
 # **Conclusiones:**
